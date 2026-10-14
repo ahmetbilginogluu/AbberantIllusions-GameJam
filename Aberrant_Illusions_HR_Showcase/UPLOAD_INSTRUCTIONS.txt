@@ -1,0 +1,18 @@
+ABERRANT ILLUSIONS — SMALL CODE SHOWCASE
+
+Suggested repository name: Aberrant-Illusions
+Description: A Unity 3.5D platformer with optical-illusion level design, responsive movement, checkpoints and interactive hazards. Made for Acerola Jam 0.
+Website: https://ahmetbilgi.itch.io/aberrant-illusions
+Suggested first commit: Add Aberrant Illusions code showcase
+
+Extract this ZIP. Upload README.md and CREDITS.md at the repository root.
+Upload each complete folder from that same root, keeping its name.
+Drag the folders themselves, not only the loose files, so README links work.
+Each folder contains fewer than 50 files including all descendants.
+Do not upload the ZIP as the repository contents.
+
+If .gitignore cannot be selected: Add file > Create new file, name it .gitignore,
+paste the contents of gitignore.txt and commit. You do not need to publish
+gitignore.txt or this instruction file.
+
+This package is a code showcase, not an import-ready Unity project.
